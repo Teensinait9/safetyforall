@@ -1,0 +1,218 @@
+h3 {
+    color: #0c3c60;
+    font-family: sans-serif;
+    font-family: raleway;
+    font-size: 60px;
+    margin-top: 350px;
+}
+h4 {
+    color: #0c3c60;
+    font-family: sans-serif;
+    font-family: raleway;
+    font-size: 27px;
+    text-align: 20px;
+}
+
+i.checkbox {
+    color: rgb(93, 146, 40);
+}
+
+/*
+================================================================
+│   │   │   │    │    │   │  Start About
+================================================================
+*/
+
+
+h1 {
+    font-size: 2em;
+}
+section#about {
+    width: 100%;
+    height: 500px;
+    background: white;
+    position: absolute;
+    top: 632px;
+    left: 0;
+}
+
+div.about {
+    color: white;
+    text-align: center;
+}
+
+div.charity, div.charity2, div.charity5 {
+    width: 300px;
+    height: 340px;
+    background: #20CE88;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 90px;
+}
+
+div.charity2 {
+    right: 480px;
+}
+
+button  {
+    width: 140px;
+    height: 40px;
+    background: #0c3c60;
+    color: white;
+    font-size: 2em;
+    border: none;
+    margin-bottom: 50px;
+}
+
+button:hover {
+    background: #09568d;
+}
+
+div.charity {
+    left:110px;
+}
+
+div.charity5 {
+    left: 850px;
+}
+a {
+    color: #FFFFFF
+    text-decoration: none;
+}
+
+
+ h5 {
+     font-size: 24px;
+     color: #D1E0EB;
+     font-family: sans-serif;
+ }
+ h6 {
+    font-size: 14px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+
+ /*
+ ================================================================
+ │   │   │   │    │    │   │  End About
+ ================================================================
+ */
+
+
+/*
+================================================================
+│   │   │   │    │    │   │  Start About us │   │   │   │    │   
+================================================================
+*/
+p.aboutus {
+    color: #0c3c60;
+    font-family: sans-serif;
+    font-family: raleway;
+    font-size: 27px;
+    text-align: 20px;
+}
+
+h3.aboutus {
+    margin-top: -0.25px;
+    font-family: raleway;
+    font-size: 60px;
+}
+
+/*
+================================================================
+│   │   │   │    │    │   │  End About us │   │   │   │    │   
+================================================================
+*/
+
+/*
+================================================================
+│   │   │   │    │    │   │  Start Volunteer │   │   │   │    │   
+================================================================
+*/
+
+
+h3.volunteer {
+    color: #FFFFFF;
+    margin-top: -0.3px;
+    font-family: raleway;
+}
+a.how {
+    color: #39729B;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+p.volunteer {
+  color: #39729B;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 150px;
+}
+img.volunteer {
+  width: 560px;
+  height: 350px;
+  margin-right: 450px;
+  margin-top: 60px;
+}
+
+label {
+    color: white;
+}
+
+/*
+================================================================
+│   │   │   │    │    │   │  End Volunteer │   │   │   │    │   
+================================================================
+*/
+.img-wrap {
+    position: relative;
+  }
+  
+  .img-wrap h2 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+
+ 
+/*
+================================================================
+│   │   │   │    │    │   │  Start Footer │   │   │   │    │   
+================================================================
+*/
+footer {
+    width: 100%;
+    height: 141px;
+    background:#172035;
+    position: absolute;
+    top: 2320px;
+    left: 0;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+    font-size: 1em;
+}
+
+img.logo {
+    width: 90px;
+    height: 120px;
+    margin-top: -0.9px;
+}
+
+/*
+================================================================
+│   │   │   │    │    │   │  End Footer
+================================================================
+*/
